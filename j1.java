@@ -14,6 +14,9 @@ class Nasr{
     } else {
         System.out.println("B is greater ");
     }
+        var name ="nasr";
+        var lName="elzanaty";
+        System.out.println(name.compareTo("lName"));
 
     }
 
