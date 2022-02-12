@@ -1,4 +1,6 @@
-public class Introduction {
+import java.util.Scanner;
+
+public class J2_Introduction {
     
     public static void main(String[] args){
 
@@ -12,7 +14,13 @@ public class Introduction {
         // computeArea
         // Class names, capitaliza the letter of each word, for instance(ComputeArea)
         // constants: All letters are in capital form and use _ in btween words.
-         
+        
+        //how to get user input:
+
+        //Step 1 Scanner input = new Scanner (System.in);
+
+       // Step 2 int value = input.nextInt();
+
 
 
 }
