@@ -16,6 +16,7 @@ public class Strings {
     System.out.println(name.equalsIgnoreCase(myname));
     System.out.println(name.indexOf("N"));
     System.out.println(name.indexOf("l"));
+    System.out.println(name.length());
 
 
 
