@@ -2,7 +2,6 @@
 /home/nk/Documents/Git/cs1.cs/bin/Debug/net6.0/cs1.cs.deps.json
 /home/nk/Documents/Git/cs1.cs/bin/Debug/net6.0/cs1.cs.runtimeconfig.json
 /home/nk/Documents/Git/cs1.cs/bin/Debug/net6.0/cs1.cs.dll
-/home/nk/Documents/Git/cs1.cs/bin/Debug/net6.0/ref/cs1.cs.dll
 /home/nk/Documents/Git/cs1.cs/bin/Debug/net6.0/cs1.cs.pdb
 /home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/cs1.cs.csproj.AssemblyReference.cache
 /home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/cs1.cs.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@
 /home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/ref/cs1.cs.dll
 /home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/cs1.cs.pdb
 /home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/cs1.cs.genruntimeconfig.cache
+/home/nk/Documents/Git/cs1.cs/obj/Debug/net6.0/refint/cs1.cs.dll
