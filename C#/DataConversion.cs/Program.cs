@@ -22,9 +22,24 @@ class Program
 
        
         // you can decalre mutlipel variable of the same type like the belwo:
-        int x=3, y=4,z=5;
+        //int x=3, y=4,z=5;
 
-        Console.WriteLine(15* pow());
+        double num = 12.5;
+        int num2 = Convert.ToInt32(num);// will explicityly convert, some values will be trimmed
+        System.Console.WriteLine(num2);
+        System.Console.WriteLine(Convert.ToString(num));
+
+        // to see where each type belong to, use the below.
+        System.Console.WriteLine(typeof(float));
+        System.Console.WriteLine(typeof(string));
+        System.Console.WriteLine(typeof(double));
+        System.Console.WriteLine(typeof(Boolean));
+
+        var num3 = "123";
+        var num4= Convert.ToInt32(num3);
+        System.Console.WriteLine(num3);
+
+
 
 
 

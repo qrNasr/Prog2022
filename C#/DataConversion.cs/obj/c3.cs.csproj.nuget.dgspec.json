@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nk/Documents/Git/C#/c3.cs/c3.cs.csproj": {}
+    "/home/nk/Documents/Git/C#/DataConversion.cs/c3.cs.csproj": {}
   },
   "projects": {
-    "/home/nk/Documents/Git/C#/c3.cs/c3.cs.csproj": {
+    "/home/nk/Documents/Git/C#/DataConversion.cs/c3.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nk/Documents/Git/C#/c3.cs/c3.cs.csproj",
+        "projectUniqueName": "/home/nk/Documents/Git/C#/DataConversion.cs/c3.cs.csproj",
         "projectName": "c3.cs",
-        "projectPath": "/home/nk/Documents/Git/C#/c3.cs/c3.cs.csproj",
+        "projectPath": "/home/nk/Documents/Git/C#/DataConversion.cs/c3.cs.csproj",
         "packagesPath": "/home/nk/.nuget/packages/",
-        "outputPath": "/home/nk/Documents/Git/C#/c3.cs/obj/",
+        "outputPath": "/home/nk/Documents/Git/C#/DataConversion.cs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nk/.nuget/NuGet/NuGet.Config"
