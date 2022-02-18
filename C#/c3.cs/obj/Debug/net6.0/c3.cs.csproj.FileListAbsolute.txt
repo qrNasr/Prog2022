@@ -1,0 +1,15 @@
+/home/nk/Documents/Git/C#/c3.cs/bin/Debug/net6.0/c3.cs
+/home/nk/Documents/Git/C#/c3.cs/bin/Debug/net6.0/c3.cs.deps.json
+/home/nk/Documents/Git/C#/c3.cs/bin/Debug/net6.0/c3.cs.runtimeconfig.json
+/home/nk/Documents/Git/C#/c3.cs/bin/Debug/net6.0/c3.cs.dll
+/home/nk/Documents/Git/C#/c3.cs/bin/Debug/net6.0/c3.cs.pdb
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.csproj.AssemblyReference.cache
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.AssemblyInfoInputs.cache
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.AssemblyInfo.cs
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.csproj.CoreCompileInputs.cache
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.dll
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/refint/c3.cs.dll
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.pdb
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/c3.cs.genruntimeconfig.cache
+/home/nk/Documents/Git/C#/c3.cs/obj/Debug/net6.0/ref/c3.cs.dll
